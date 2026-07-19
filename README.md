@@ -1,4 +1,4 @@
-# TryHackMe-Writeups
+# TryHackMe Writeups Index
 My notes and skills for my TryHackMe rooms. 
 
 ## Links to room reports
