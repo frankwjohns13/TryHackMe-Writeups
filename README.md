@@ -7,13 +7,13 @@ My notes and skills for my TryHackMe rooms.
 
 | **Computer Science Basics**    |
 |--------------------------------|
-| **Pre Security**               |
-| **Pre Secruity (SOC0)**        |
+| Pre Security               |
+| Pre Secruity (SOC0)        |
 
 | **Cyber Security Foundations** |
 |--------------------------------|
-| **Cyber Security 101**         |
-| **Cyber Security 101 (SEC1)**  |
+| Cyber Security 101         |
+| Cyber Security 101 (SEC1)  |
 
 | **Security Analyst**             | **Penetration Tester**           | **Security Entineer**            | **AI**                           |
 |----------------------------------|----------------------------------|----------------------------------|----------------------------------|
