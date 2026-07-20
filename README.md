@@ -2,18 +2,27 @@
 My notes and skills for my TryHackMe rooms. 
 
 ## Links to room reports
-
+<div align="center">
 ## TryHackMe Learning Roadmap
+</div>
 
+<div align="center">
 | **Computer Science Basics**    |
 |--------------------------------|
 | Pre Security               |
 | Pre Secruity (SOC0)        |
 
+</div>
+
+<div align="center">
 | **Cyber Security Foundations** |
 |--------------------------------|
 | Cyber Security 101         |
 | Cyber Security 101 (SEC1)  |
+
+</div>
+
+<div align="center">
 
 | **Security Analyst**             | **Penetration Tester**           | **Security Entineer**            | **AI**                           |
 |----------------------------------|----------------------------------|----------------------------------|----------------------------------|
@@ -24,6 +33,7 @@ My notes and skills for my TryHackMe rooms.
 | **Advanced Endpoint Investigations** Path | **Red Teaming** Path                     |
 | **Defending Azure** Path                 |
 
+</div>
 
 
 ---
