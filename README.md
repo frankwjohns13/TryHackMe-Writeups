@@ -17,12 +17,12 @@ My notes and skills for my TryHackMe rooms.
 
 | **Security Analyst**             | **Penetration Tester**           | **Security Entineer**            | **AI**                           |
 |----------------------------------|----------------------------------|----------------------------------|----------------------------------|
-| SOC Level 1 (Path)               | Jr. Penetration Tester (Path)    | Security Engineer (Path)         | AI Security (Path)               |
-| Security Analyst (SAL1) Certification         | Jr. Penetration Tester (PT1) Certification    | DevSecOps (Path)                       | AI Security Level 1 (AI1) Certification       |
-| SOC Level 2                      | Web Applicaiton Pentesting       | Defending AWS                    |
-| Security Analyst (SAL2)          | Web ApplicaitonRed Teaming       |
-| Advanced Endpoint Investigations | Red Teaming                      |
-| Defending Azure                  |
+| **SOC Level 1** Path               | **Jr. Penetration Tester** Path    | **Security Engineer** Path         | **AI Security** Path               |
+| **Security Analyst (SAL1)** Certification         | **Jr. Penetration Tester (PT1)** Certification    | **DevSecOps** Path                       | **AI Security Level 1 (AI1)** Certification       |
+| **SOC Level 2** Path                     | **Web Applicaiton Pentesting** Path      | **Defending AWS** Path                   |
+| **Security Analyst (SAL2)** Certification         | **Web ApplicaitonRed Teaming** Path      |
+| **Advanced Endpoint Investigations** Path | **Red Teaming** Path                     |
+| **Defending Azure** Path                 |
 
 
 
