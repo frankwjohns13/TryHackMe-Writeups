@@ -7,6 +7,7 @@ My notes and skills for my TryHackMe rooms.
 </div>
 
 <div align="center">
+  
 | **Computer Science Basics**    |
 |--------------------------------|
 | Pre Security               |
@@ -15,6 +16,7 @@ My notes and skills for my TryHackMe rooms.
 </div>
 
 <div align="center">
+  
 | **Cyber Security Foundations** |
 |--------------------------------|
 | Cyber Security 101         |
