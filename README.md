@@ -1,8 +1,7 @@
 # TryHackMe Writeups Index
 My notes and skills for my TryHackMe rooms. 
 
-## Links to room reports
-## <div align="center">
+<div align="center">
 TryHackMe Learning Roadmap
 </div>
 
@@ -37,11 +36,11 @@ TryHackMe Learning Roadmap
 
 </div>
 
-
 ---
 
 **Goal**: Progress through these structured learning paths to build real-world cybersecurity skills.
 
+## Links to room reports
 
 ## Website
 [View TryHackMe Roadmap](https://tryhackme.com/hacktivities)
