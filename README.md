@@ -5,6 +5,8 @@ My notes and skills for my TryHackMe rooms.
 TryHackMe Learning Roadmap
 </div>
 
+---
+
 <div align="center">
   
 | **Computer Science Basics**    |
@@ -40,7 +42,7 @@ TryHackMe Learning Roadmap
 
 **Goal**: Progress through these structured learning paths to build real-world cybersecurity skills.
 
-## Links to room reports
+## Links to room writeups
 
 ## Website
 [View TryHackMe Roadmap](https://tryhackme.com/hacktivities)
