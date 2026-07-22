@@ -12,7 +12,7 @@ My notes and skills for my TryHackMe rooms.
   
 | **Computer Science Basics**    |
 |--------------------------------|
-| Pre Security               |
+| [Pre Security](https://github.com/frankwjohns13/TryHackMe-Pre-Security)            |
 | Pre Secruity (SOC0)        |
 
 </div>
